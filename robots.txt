@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waml.github.io/notes-dt06ag/sitemap.xml
